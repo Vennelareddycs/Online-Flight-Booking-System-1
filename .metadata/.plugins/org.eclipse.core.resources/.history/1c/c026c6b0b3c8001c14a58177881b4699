@@ -1,0 +1,5 @@
+package com.airline.ticket.base.Exception;
+
+public class InvalidUserException {
+
+}
